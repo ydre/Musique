@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Musique.Services/1.0.0": {
+        "dependencies": {
+          "Musique.Core": "1.0.0"
+        },
+        "runtime": {
+          "Musique.Services.dll": {}
+        }
+      },
+      "Musique.Core/1.0.0": {
+        "runtime": {
+          "Musique.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Musique.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Musique.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

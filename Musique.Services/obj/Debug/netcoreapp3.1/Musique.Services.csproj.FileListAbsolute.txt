@@ -1,0 +1,13 @@
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\bin\Debug\netcoreapp3.1\Musique.Services.deps.json
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\bin\Debug\netcoreapp3.1\Musique.Services.dll
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\bin\Debug\netcoreapp3.1\Musique.Services.pdb
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\obj\Debug\netcoreapp3.1\Musique.Services.csproj.AssemblyReference.cache
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\obj\Debug\netcoreapp3.1\Musique.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\obj\Debug\netcoreapp3.1\Musique.Services.AssemblyInfoInputs.cache
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\obj\Debug\netcoreapp3.1\Musique.Services.AssemblyInfo.cs
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\obj\Debug\netcoreapp3.1\Musique.Services.csproj.CoreCompileInputs.cache
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\obj\Debug\netcoreapp3.1\Musique.Services.dll
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\obj\Debug\netcoreapp3.1\Musique.Services.pdb
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\bin\Debug\netcoreapp3.1\Musique.Core.dll
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\bin\Debug\netcoreapp3.1\Musique.Core.pdb
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Services\obj\Debug\netcoreapp3.1\Musique.Services.csproj.CopyComplete

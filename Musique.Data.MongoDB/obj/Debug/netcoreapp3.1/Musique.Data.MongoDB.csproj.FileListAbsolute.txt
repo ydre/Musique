@@ -1,0 +1,9 @@
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Data.MongoDB\bin\Debug\netcoreapp3.1\Musique.Data.MongoDB.deps.json
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Data.MongoDB\bin\Debug\netcoreapp3.1\Musique.Data.MongoDB.dll
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Data.MongoDB\bin\Debug\netcoreapp3.1\Musique.Data.MongoDB.pdb
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Data.MongoDB\obj\Debug\netcoreapp3.1\Musique.Data.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Data.MongoDB\obj\Debug\netcoreapp3.1\Musique.Data.MongoDB.AssemblyInfoInputs.cache
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Data.MongoDB\obj\Debug\netcoreapp3.1\Musique.Data.MongoDB.AssemblyInfo.cs
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Data.MongoDB\obj\Debug\netcoreapp3.1\Musique.Data.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Data.MongoDB\obj\Debug\netcoreapp3.1\Musique.Data.MongoDB.dll
+C:\Users\isnar\source\repos\ProjetMusique\Musique.Data.MongoDB\obj\Debug\netcoreapp3.1\Musique.Data.MongoDB.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Musique.Data.MongoDB/1.0.0": {
+        "runtime": {
+          "Musique.Data.MongoDB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Musique.Data.MongoDB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
